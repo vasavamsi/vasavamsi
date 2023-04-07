@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasa Vamsi Krishna</h1>
 <h3 align="center">Passionate about working on the applications of Machine learning and Deep learning.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/58003228/230599511-a612a630-dc03-4155-a6c3-78c610b46add.png)
-">
+<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasavamsi&label=Profile%20views&color=0e75b6&style=flat" alt="vasavamsi" /> </p>
 
