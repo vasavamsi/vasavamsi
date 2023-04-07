@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vasa Vamsi Krishna</h1>
 <h3 align="center">Passionate about working on the applications of Machine learning and Deep learning.</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/58003228/230599511-a612a630-dc03-4155-a6c3-78c610b46add.png)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasavamsi&label=Profile%20views&color=0e75b6&style=flat" alt="vasavamsi" /> </p>
 
 - 🔭 I’m currently working on **Performance Testing of Service APIs using resources such as Gatling and Load runner**
