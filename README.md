@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vasa_vamsi@alumni.iitgn.ac.in**
 
-- 📄 Know about my experiences [Computer Vision and Deep learning reserch, Performance testing of Web Services](Computer Vision and Deep learning reserch, Performance testing of Web Services)
+- 📄 Know about my experiences [Computer Vision and Deep learning research, Performance testing of Web Services]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
