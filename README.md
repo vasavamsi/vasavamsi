@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cloud computing and certifications on AWS and Azure**
 
-- 📫 How to reach me **vasa_vamsi@alumni.iitgn.ac.in**
+- 📫 How to reach me **vvasa1@asu.edu/vasa_vamsi3369@gmail.com**
 
 - 📄 Know about my experiences : Systems Engineer (Innovative Profile) at Tata Consultancy Services, Gradute Student in Computer Vision, Imaging and Graphics (CVIG) Lab, Teaching assistant at IIT Gandhinagar, Service and Maintainence Engineer at Tata Chemicals Ltd.
 
