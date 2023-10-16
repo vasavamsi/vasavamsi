@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasavamsi&label=Profile%20views&color=0e75b6&style=flat" alt="vasavamsi" /> </p>
 
-- 🔭 I’m currently working on **Performance Testing of Service APIs using resources such as Gatling and Load runner**
+- 🔭 I’m currently working on **Understanding Deep learning applications for Computer Graphics**
 
-- 🌱 I’m currently learning **Cloud computing and certifications on AWS and Azure**
+- 🌱 I’m currently pursuing **MS in Computer Science from ASU (Second Masters)**
 
 - 📫 How to reach me **vvasa1@asu.edu/vasa_vamsi3369@gmail.com**
 
