@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **vvasa1@asu.edu/vasa_vamsi3369@gmail.com**
 
-- 📄 Know about my experiences : Systems Engineer (Innovative Profile) at Tata Consultancy Services,
-- Gradute Student in Computer Vision, Imaging and Graphics (CVIG) Lab, Teaching assistant at IIT Gandhinagar, Service and Maintainence Engineer at Tata Chemicals Ltd.
+- 📄 Know about my experiences : Systems Engineer (Innovative Profile) at Tata Consultancy Services (2021-23), AI Reserach intern at Center for Development of Advanced Computing (C-DAC) (2020-21), Gradute Student in Computer Vision, Imaging and Graphics (CVIG) Lab (2019-21), Teaching assistant at IIT Gandhinagar (2019-21), Graduate Engineer Trainee at Tata Chemicals Ltd. (2018-19)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
