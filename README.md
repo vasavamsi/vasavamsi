@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently pursuing **MS in Computer Science from ASU (Thesis Track)**
 
+- 💼 I'm currently working as **Graduate Student Researcher, <a href="https://acims.asu.edu/" target="blank">ACIMS</a> Lab**
+
 - 📫 How to reach me **vvasa1@asu.edu/vasa_vamsi3369@gmail.com**
 
 - 🤓 To know more about me, visit **https://vasavamsi.netlify.app/**
