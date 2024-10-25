@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on **Leveraging Generative AI to simulate the operation of Semiconductor Fabrication Factory and solving Computer Vision Tasks in Medical Imaging**
 
-- 🌱 I’m currently pursuing **MS in Computer Science from ASU (Second Masters)**
+- 🌱 I’m currently pursuing **MS in Computer Science from ASU (Thesis Track)**
 
 - 📫 How to reach me **vvasa1@asu.edu/vasa_vamsi3369@gmail.com**
+
+- 🤓 To know more about me, visit **https://vasavamsi.netlify.app/**
 
 - 📄 Know about my experiences : Graduate Researcher at ACIMS Lab (ASU), Deep Learning Researcher at Geometry Systems Laboratory (ASU), Systems Engineer (Innovative Profile) at Tata Consultancy Services (2021-23), Deep learning Research intern at Center for Development of Advanced Computing (C-DAC) (2020-21), Gradute Student in Computer Vision, Imaging and Graphics (CVIG) Lab (2019-21), Teaching assistant at IIT Gandhinagar (2019-21), Graduate Engineer Trainee at Tata Chemicals Ltd. (2018-19)
 
